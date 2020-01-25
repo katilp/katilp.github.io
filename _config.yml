@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Trying this out...
-description: ... let's see how does it look like.
+description: ... let's see how it looks like.
 github_username: katilp
 
 # Email and twitter are optional:
 email: 
-twitter_username: 
+twitter_username: KatiLassila
 
 # Set this to true to get LaTeX math equation support
 use_math: 
