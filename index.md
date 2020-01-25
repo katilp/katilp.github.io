@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
+Hello and welcome to this blog, which is not yet a blog. I'm just setting this up and do not think that I have much to say, but it is nice to try things out...
 
 ## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Just to include a link, let me give a try: [CMS Open Data in use](https://ep-news.web.cern.ch/content/cms-open-data-use). Posts will appear after this file, they say. We'll see... 
