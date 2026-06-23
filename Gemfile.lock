@@ -218,7 +218,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.17.0)
     multipart-post (2.1.1)
-    nokogiri (1.19.3)
+    nokogiri (1.19.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     octicons (9.3.1)
